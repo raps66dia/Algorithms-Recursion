@@ -2,7 +2,7 @@
 Ilya Yermakov
 IT-2503
 # Task 1
-<img width="1750" height="947" alt="изображение" src="https://github.com/user-attachments/assets/816e5f3a-6896-4261-b0f4-be21f3796b95" />
+<img width="1733" height="935" alt="изображение" src="https://github.com/user-attachments/assets/0b513e83-8e65-4a1b-8171-1d6043d4516e" />
 # Task 2
 <img width="1731" height="942" alt="изображение" src="https://github.com/user-attachments/assets/ba5702ca-e451-4485-84e5-2f9e1a567919" />
 # Task 3
