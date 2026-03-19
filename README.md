@@ -11,5 +11,5 @@ IT-2503
 <img width="1734" height="925" alt="изображение" src="https://github.com/user-attachments/assets/dfc1e9a6-0dc7-4703-b181-ea341ae752fc" />
 # Task 5
 <img width="1738" height="950" alt="изображение" src="https://github.com/user-attachments/assets/83f23b26-1ff9-40f0-97af-a73e29c2f24a" />
-
+# Task 6
 
