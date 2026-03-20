@@ -8,7 +8,7 @@ IT-2503
 # Task 3
 <img width="1742" height="933" alt="изображение" src="https://github.com/user-attachments/assets/35bdcefe-76c4-415f-bf25-12953f35faad" />
 # Task 4
-<img width="1734" height="925" alt="изображение" src="https://github.com/user-attachments/assets/dfc1e9a6-0dc7-4703-b181-ea341ae752fc" />
+<img width="1727" height="940" alt="изображение" src="https://github.com/user-attachments/assets/86cc0873-4035-495c-a4c8-328fbffe6b77" />
 # Task 5
 <img width="1738" height="950" alt="изображение" src="https://github.com/user-attachments/assets/83f23b26-1ff9-40f0-97af-a73e29c2f24a" />
 # Task 6
