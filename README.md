@@ -19,5 +19,7 @@ IT-2503
 <img width="1737" height="941" alt="изображение" src="https://github.com/user-attachments/assets/b22ce9bc-dab4-45dd-9314-fcce25bc9917" />
 # Task 9
 <img width="1745" height="946" alt="изображение" src="https://github.com/user-attachments/assets/d3a6b1fc-2daa-4c73-9b76-212dba763639" />
+# Task 10
+<img width="1742" height="945" alt="изображение" src="https://github.com/user-attachments/assets/c1527e17-f6e7-4dc9-8c68-8c58126ed9e3" />
 
 
