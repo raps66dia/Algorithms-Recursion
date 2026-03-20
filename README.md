@@ -21,5 +21,6 @@ IT-2503
 <img width="1745" height="946" alt="изображение" src="https://github.com/user-attachments/assets/d3a6b1fc-2daa-4c73-9b76-212dba763639" />
 # Task 10
 <img width="1742" height="945" alt="изображение" src="https://github.com/user-attachments/assets/c1527e17-f6e7-4dc9-8c68-8c58126ed9e3" />
-
+# Report
+When I done this task I will better explain the concept of recursion and I can solve a basic task. Also it was hard for me because I wrote the code on Java language it's my first experience of writing the recursion on this language. First several tasks were easy but anyway I sat and tried to solve firstly on paper and then I write the code. I think it help me to better understand the basis of recursion. And also it improve your logical thinking in programming. I mean you start to think about task as a programmer and this experince is very useful for me. In my free time I want to solve more tasks similar to like this.
 
